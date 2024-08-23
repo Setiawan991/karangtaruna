@@ -9,18 +9,34 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@nextui-org/react": "^2.4.6",
+    "@phosphor-icons/react": "^2.1.7",
+    "@prisma/client": "^5.18.0",
+    "@tabler/icons-react": "^3.12.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.3.24",
+    "html2canvas": "^1.4.1",
+    "html2pdf.js": "^0.10.2",
+    "jspdf": "^2.5.1",
+    "mysql": "^2.18.1",
+    "next": "14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "tailwind-merge": "^2.4.0"
   },
   "devDependencies": {
-    "typescript": "^5",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "daisyui": "^4.12.10",
     "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "i": "^0.3.7",
+    "npm": "^10.8.2",
+    "postcss": "^8",
+    "prettier": "3.3.3",
+    "prisma": "^5.18.0",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
   }
 }
